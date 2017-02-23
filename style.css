@@ -1,0 +1,90 @@
+p{
+  color: azure;
+    font-size: medium;
+}
+
+h1{
+  color:#0000FF;
+  text-align: center;
+}
+
+title {
+  text-align: center;
+}
+body{
+  background-image: radial-gradient(circle, #8D0000 20%, black 100%);
+}
+li{
+  color:#14A333;
+}
+
+div.section{
+  margin: 10px;
+  padding: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-style: double;
+  border-color: #1A1A75;
+  border-width: thick;
+}
+
+#fav_movie{
+  font-style: italic;
+}
+
+#favorite_band{
+  font-weight: bold;
+}
+/*source= http://www.webdeveloper.com/forum/showthread.php?91080-Center-align-div-but-not-text*/
+table {
+    margin: auto;
+}
+th{
+  font-variant: small-caps;
+  text-decoration: underline;
+  color: darkgreen;
+  font-weight: bold;
+}
+
+td{
+  border-style: ridge;
+  border-color: #1A1A75;
+  padding: 5px;
+  margin: 0px;
+  color: white;
+  text-emphasis-color: black;
+}
+
+.header1{
+  font-size: 45px;
+  font-family: monospace;
+  text-decoration: underline;
+}
+.header2{
+  text-align: center;
+  font-size: 38px;
+  font-family: fantasy;
+  margin: 2px;
+    color: azure;
+    text-decoration: underline;
+}
+
+.ending {
+    color: azure;
+}
+
+#fav_food{
+  font-weight: bold;
+  font-size: 150%;
+}
+
+span.glyphicon-flash {
+  font-size: 75px;
+}
+
+img {
+    /*source= http://stackoverflow.com/questions/11856150/css-to-center-a-image-horizontally*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
